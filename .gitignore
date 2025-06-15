@@ -8,7 +8,12 @@ assignment1-neural-data/01-local_field_potential/__MACOSX
 assignment2-single-cell-analysis/01-tuning-curves/data
 assignment2-single-cell-analysis/instructor-notes.md
 assignment2-single-cell-analysis/01-tuning-curves/__MACOSX
-assignment3-population-methods/02-SVM-decoding
+
+assignment3-population-methods/02-SVM-decoding/data
+assignment3-population-methods/02-SVM-decoding/__MACOSX
+assignment3-population-methods/02-SVM-decoding/code
+assignment3-population-methods/02-SVM-decoding/imgs
+
 assignment3-population-methods/03-dimensionality-reduction
 assignment3-population-methods/.gitignore
 assignment3-population-methods/requirements.txt
