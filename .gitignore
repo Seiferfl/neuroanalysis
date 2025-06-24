@@ -14,7 +14,6 @@ assignment3-population-methods/02-SVM-decoding/__MACOSX
 assignment3-population-methods/02-SVM-decoding/code
 assignment3-population-methods/02-SVM-decoding/imgs
 
-assignment3-population-methods/03-dimensionality-reduction
 assignment3-population-methods/.gitignore
 assignment3-population-methods/requirements.txt
 assignment3-population-methods/README.md
@@ -24,3 +23,9 @@ assignment1-neural-data/02-calcium_imaging/data
 assignment1-neural-data/02-calcium_imaging/code/__pycache__
 assignment1-neural-data/01-local_field_potential/__pycache__
 assignment1-neural-data/02-calcium_imaging/nihms778164.pdf
+
+assignment3-population-methods/03-dimensionality-reduction/__MACOSX
+assignment3-population-methods/03-dimensionality-reduction/code
+assignment3-population-methods/03-dimensionality-reduction/data
+assignment3-population-methods/03-dimensionality-reduction/imgs
+assignment3-population-methods/03-dimensionality-reduction/styles
